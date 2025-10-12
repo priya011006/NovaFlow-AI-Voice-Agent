@@ -1,5 +1,11 @@
 # 🎙️ `AI Voice Agent` – `30 Days of Voice Agents Challenge 🚀`
 
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Render](https://img.shields.io/badge/Render-Deployed-blueviolet?logo=render)](https://render.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Welcome to my AI Voice Agent project, crafted for the 30 Days of AI Voice Agents challenge with #BuildwithMurf! 🌟 This repo is my playground for building a next-level, voice-powered conversational AI that evolves daily with cutting-edge features. From audio transcription to real-time WebSocket streaming, context-aware memory, and future multi-agent systems, this project blends FastAPI, AssemblyAI, Murf AI, and Gemini API to deliver seamless, vibrant voice interactions. 💬 With a sleek UI showcasing user mess
 
 ---
